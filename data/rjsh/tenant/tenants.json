@@ -1,0 +1,38 @@
+{
+  "tenantId": "rjsh",
+  "moduleName": "tenant",
+  "tenants": [{
+      "code": "rjsh.citya",
+      "name": "City A",
+      "description": "City A",
+      "pincode": [143001,143002,143003,143004,143005],
+      "logoId": "https://www.seiu1000.org/sites/main/files/main-images/camera_lense_0.jpeg",
+      "imageId": null,
+      "domainUrl": "https://www.egovernments.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "citya@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "City A",
+        "localName": null,
+        "districtCode": "CITYA",
+        "districtName": null,
+        "districtTenantCode": "rjsh.citya",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1013",
+        "ddrName": "DDR A"
+      },
+      "address": "City A Municipal Corporation",
+      "contactNumber": "001-2345876"
+    }
+   ]
+}
