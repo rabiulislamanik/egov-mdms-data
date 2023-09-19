@@ -1,17 +1,17 @@
 {
-    "tenantId": "pg",
+    "tenantId": "rjsh",
     "moduleName": "DocumentUploader",
     "UlbLevelCategories": [
       {
-        "ulb": "pg.citya",
+        "ulb": "rjsh.citya",
         "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
       },
       {
-        "ulb": "pg.cityb",
+        "ulb": "rjsh.cityb",
         "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
       },
       {
-        "ulb": "pg.cityc",
+        "ulb": "rjsh.cityc",
         "categoryList": ["CATEGORY_CITIZEN_CHARTER","CATEGORY_FORMS","CATEGORY_TENDERS","CATEGORY_CIRCULARS","CATEGORY_GOVERNMENT_ORDERS"]
       }
     ]

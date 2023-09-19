@@ -1,16 +1,16 @@
 {
-	"tenantId": "pg.citya",
+	"tenantId": "rjsh.citya",
 	"moduleName": "BillingService",
 	"GLCode": [
 	{
 		"code": "BIRTH_CERT",
 		"glcode": null,
-		"cb": "pg.citya"
+		"cb": "rjsh.citya"
 	},
 	{
 		"code": "DEATH_CERT",
 		"glcode": null,
-		"cb": "pg.citya"
+		"cb": "rjsh.citya"
 	}
 	]
 }
